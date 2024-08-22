@@ -1,0 +1,30 @@
+#loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background-color: #ffffff60;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+}
+
+#loading.hidden {
+    display: none !important;
+}
+
+#loading .spinner {
+    width: 3em;
+    height: 3em;
+    border: 0.25em solid #000;
+    border-radius: 50%;
+    border-top-color: #fff;
+    animation: spin 1s linear infinite;
+}
+
+.required-label::after {
+    content: "*";
+    color: red; 
+  }
