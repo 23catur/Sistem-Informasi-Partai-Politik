@@ -8,7 +8,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/github/license/23catur/Sistem-Informasi-Partai-Politik?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/github/license/23catur/Sistem-Informasi-Partai-Politik?style=flat-square" /></a>
 </p>
 
 ---
